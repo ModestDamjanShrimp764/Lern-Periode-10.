@@ -34,19 +34,24 @@ https://github.com/ModestDamjanShrimp764
 ## 29.5.
 
 ## Arbeitspakete
-- [ ] Das Design der Startseite verbessern, indem Farben, Abstände und Schriftgrössen angepasst werden und Ziel ist eine modernere und professionellere Darstellung der Website.
-- [ ] Die vorhandenen Projekte genauer dokumentieren und beschreiben und zu jedem Projekt sollen Informationen über Programmiersprache, Funktionen und Arbeitsprozess ergänzt werden.
-- [ ] Den Lebenslauf als PDF-Datei auf GitHub hochladen und auf der Startseite korrekt verlinken und Besucher der Website sollen den CV direkt herunterladen können.
-- [ ] Die Website um zusätzliche Inhalte erweitern, darunter ein Bereich für technische Fähigkeiten, GitHub-Projekte und Informationen zur Praktikumssuche und die Seite soll dadurch vollständiger und informativer werden.
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Start-Seite 3
-- [ ] Start-Seite 4
+- [x] Das Design der Startseite verbessern, indem Farben, Abstände und Schriftgrössen angepasst werden und Ziel ist eine modernere und professionellere Darstellung der Website.
+- [x] Die vorhandenen Projekte genauer dokumentieren und beschreiben und zu jedem Projekt sollen Informationen über Programmiersprache, Funktionen und Arbeitsprozess ergänzt werden.
+- [x] Den Lebenslauf als PDF-Datei auf GitHub hochladen und auf der Startseite korrekt verlinken und Besucher der Website sollen den CV direkt herunterladen können.
+- [x] Die Website um zusätzliche Inhalte erweitern, darunter ein Bereich für technische Fähigkeiten, GitHub-Projekte und Informationen zur Praktikumssuche und die Seite soll dadurch vollständiger und informativer werden.
+- [x] Start-Seite 1
+- [x] Start-Seite 2
+- [x] Start-Seite 3
+- [x] Start-Seite 4
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+## Zusammenfassung 29.05.26
+Heute habe ich meine persönliche Startseite weiter verbessert und auf GitHub Pages veröffentlicht. Das Design wurde moderner gestaltet, indem Farben, Karten und technische Fähigkeiten übersichtlicher dargestellt wurden. Zudem habe ich meine Projekte genauer beschrieben und die Kontaktinformationen ergänzt. Ausserdem habe ich meinen Lebenslauf als PDF eingebunden und auf der Website verlinkt, sodass Besucher ihn direkt herunterladen können. Die Website wurde erfolgreich auf GitHub Pages veröffentlicht und ist über eine eigene URL erreichbar. Ich habe gelernt, wie man Änderungen an einer Website mit HTML und CSS umsetzt, auf GitHub hochlädt und mit GitHub Pages veröffentlicht. Dabei konnte ich meine Kenntnisse in Webentwicklung und Versionsverwaltung vertiefen.
 
 ## 5.6.
 
+- [ ] Das Design der Startseite verbessern, indem Farben, Schriftgrössen und Abstände optimiert werden, damit die Website moderner und professioneller wirkt.
+- [ ] Die Projekte auf der Startseite detaillierter beschreiben und zu jedem Projekt Informationen über verwendete Technologien, Funktionen und persönliche Lernfortschritte ergänzen.
+- [ ] Den Lebenslauf als PDF-Datei auf GitHub hochladen und auf der Startseite mit einem gut sichtbaren Download-Button verlinken.
+- [ ] Die Website um zusätzliche Bereiche erweitern, darunter technische Fähigkeiten, GitHub-Profil und weitere Informationen zur Person, damit die Online-Präsenz vollständiger und aussagekräftiger wird.
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite abschliessen
