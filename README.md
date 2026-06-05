@@ -48,13 +48,29 @@ Heute habe ich meine persönliche Startseite weiter verbessert und auf GitHub Pa
 
 ## 5.6.
 
-- [ ] Das Design der Startseite verbessern, indem Farben, Schriftgrössen und Abstände optimiert werden, damit die Website moderner und professioneller wirkt.
-- [ ] Die Projekte auf der Startseite detaillierter beschreiben und zu jedem Projekt Informationen über verwendete Technologien, Funktionen und persönliche Lernfortschritte ergänzen.
-- [ ] Den Lebenslauf als PDF-Datei auf GitHub hochladen und auf der Startseite mit einem gut sichtbaren Download-Button verlinken.
-- [ ] Die Website um zusätzliche Bereiche erweitern, darunter technische Fähigkeiten, GitHub-Profil und weitere Informationen zur Person, damit die Online-Präsenz vollständiger und aussagekräftiger wird.
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [x] Das Design der Startseite verbessern, indem Farben, Schriftgrössen und Abstände optimiert werden, damit die Website moderner und professioneller wirkt.
+- [x] Die Projekte auf der Startseite detaillierter beschreiben und zu jedem Projekt Informationen über verwendete Technologien, Funktionen und persönliche Lernfortschritte ergänzen.
+- [x] Den Lebenslauf als PDF-Datei auf GitHub hochladen und auf der Startseite mit einem gut sichtbaren Download-Button verlinken.
+- [x] Die Website um zusätzliche Bereiche erweitern, darunter technische Fähigkeiten, GitHub-Profil und weitere Informationen zur Person, damit die Online-Präsenz vollständiger und aussagekräftiger wird.
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
+- [x] Start-Seite abschliessen
+- [x] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+## Zusammenfassung LP10 – Bewerbungsprozess
+
+Heute habe ich verschiedene Bewerbungsunterlagen von meinen Klassenkameraden analysiert und bewertet. Dabei habe ich die Motivationsschreiben, Lebensläufe, LinkedIn-Profile und GitHub-Profile überprüft.
+Anschliessend habe ich entschieden, ob die Bewerber für ein Vorstellungsgespräch eingeladen werden oder nicht. Für jede Bewerbung habe ich eine Rückmeldung per E-Mail verfasst und die Entscheidung mit konkreten Gründen begründet. Zusätzlich habe ich Verbesserungsvorschläge für die Bewerbungsunterlagen erstellt.
+Durch diese Aufgabe habe ich gelernt, worauf Unternehmen bei Bewerbungen achten und welche Informationen in einem Lebenslauf, Motivationsschreiben, LinkedIn-Profil und GitHub-Profil wichtig sind.
+
+LinkedIn-Profil:
+www.linkedin.com/in/damjan-krstic-83437932b
+
+### Erkenntnisse aus den Rückmeldungen
+
+* Ein vollständiges GitHub-Profil kann die Chancen auf eine Einladung verbessern.
+* Das Motivationsschreiben sollte möglichst persönlich und auf die Stelle angepasst sein.
+* Praktische Projekte und Erfahrungen sind oft wichtiger als lange Aufzählungen von Fähigkeiten.
+* Ein professionelles LinkedIn-Profil hinterlässt einen positiven ersten Eindruck.
+* Vollständige und übersichtliche Bewerbungsunterlagen sind sehr wichtig.
+
