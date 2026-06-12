@@ -74,3 +74,16 @@ www.linkedin.com/in/damjan-krstic-83437932b
 * Ein professionelles LinkedIn-Profil hinterlässt einen positiven ersten Eindruck.
 * Vollständige und übersichtliche Bewerbungsunterlagen sind sehr wichtig.
 
+## 12.06.26
+Wir haben Selbsteinschätzung und Berufe recherchiert.
+Wir haben unsere ausgewählten Berufe vorgestellt mit einer Powerpointfolie. 
+Danach haben wir ein Mini-Projekt angefangen zu machen mit 6 AP (Bewerbung, Lebenslauf etc.)
+
+## 19.06.26
+- [ ] Bewerbungsschreiben verbessern und eine richtige Unterschrift reinbringen
+- [ ] Lebenslauf verbessern die Satzansätze ordnen, Bild verbessern
+- [ ] Website erstellen über Damjan Krstic für die Bewerbung
+- [ ] Layout des Bewerbungsdossiers, Zeugnisse etc ordnen und verbessern
+      
+
+
