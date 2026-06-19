@@ -80,10 +80,13 @@ Wir haben unsere ausgewählten Berufe vorgestellt mit einer Powerpointfolie.
 Danach haben wir ein Mini-Projekt angefangen zu machen mit 6 AP (Bewerbung, Lebenslauf etc.)
 
 ## 19.06.26
-- [ ] Bewerbungsschreiben verbessern und eine richtige Unterschrift reinbringen
-- [ ] Lebenslauf verbessern die Satzansätze ordnen, Bild verbessern
-- [ ] Website erstellen über Damjan Krstic für die Bewerbung
-- [ ] Layout des Bewerbungsdossiers, Zeugnisse etc ordnen und verbessern
+- [x] Bewerbungsschreiben verbessern und eine richtige Unterschrift reinbringen
+- [x] Lebenslauf verbessern die Satzansätze ordnen, Bild verbessern
+- [x] Website erstellen über Damjan Krstic für die Bewerbung
+- [x] Layout des Bewerbungsdossiers, Zeugnisse etc ordnen und verbessern
+
+## Zusammenfassung
+Heute habe ich meine Website gemacht, ich habe mein Lebenslauf, mein Bewerbungsschreiben verbessert und mein Bewerbungsdossier verbessert nd bessere Gestaltung gemacht. Es hat sehr Spass gemacht und ich hatte Spass an dieser Lernperiode.
       
 
 
